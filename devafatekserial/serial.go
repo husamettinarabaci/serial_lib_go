@@ -1,4 +1,4 @@
-package devafatekping
+package devafatekserial
 
 import (
 	"io"
