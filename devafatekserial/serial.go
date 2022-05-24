@@ -1,4 +1,4 @@
-package devafatekserial
+package devhsmtekserial
 
 import (
 	"errors"
